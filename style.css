@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(89, 228, 228);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: goldenrod;
+}
+h2 {
+    color:black;
+}
+.Ability {
+    color:rgb(162, 69, 69);
+    font-size: 18px;
+    
+  
+}
+#Student {
+    background-color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;  
+
+}
+#Phone {
+    background-color:rgb(162, 69, 69);
+    
+}
+.contacts {
+    padding: 10px;
+}
+#Kianu {
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+}
